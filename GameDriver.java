@@ -1,7 +1,4 @@
-/*
-   I Pledge My honor that I have not cheated, and will not cheat, on this assignment.
-   -Brandon Yates, U86485184
-*/
+
 //Demonstrates the use of an array of objects.
 public class GameDriver
 {
